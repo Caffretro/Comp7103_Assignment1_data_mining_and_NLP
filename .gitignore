@@ -1,3 +1,7 @@
+# Drop data files that are above 100MB
+fine_food_reviews.csv
+*.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
